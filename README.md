@@ -7,30 +7,30 @@
 
 <!-- My Info -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder" alt="My Info" height="60px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+Frontend+Developer;and+Competitive+Coder" alt="My Info" height="60px"/>
 </p>
 
 
 <!-- About Me -->
 ## 👨‍💻 Know Me:
 
-* 🏫 &nbsp;I'm a B.Tech CSE'23 student at [Hemwati Nandan Bahuguna Garhwal University](https://www.hnbgu.ac.in/home).
+* 🏫 &nbsp;I'm a B.com CSE'22 student at [Devi Ahilya Vishwavidyalaya, Indore  University](https://www.hnbgu.ac.in/home).
 * 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can...
-* 👨‍💻 &nbsp;I’m currently learning Backend Development  to become a Full Stack Web Developer.
+* 👨‍💻 &nbsp;I’m currently learning frontend Development  to become a Frontend  Developer.
 * 🌱 &nbsp;Practicing Data Structures and Algorithm.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 
 <!-- My contacts -->
 <h2>🤝 Connect with me:</h2>
 <p align="center">
-<a href="tel:+91 9027359376" target="_blank">📱 +91-9027359376</a> | 
+<a href="tel:+91 8839984032" target="_blank">📱 +91-9027359376</a> | 
 <a href="https://drive.google.com/file/d/1dq1KUzIGwnOPVsR4xy_7uGuNczBavDg0/view?usp=sharing" target="_blank">🧾 My Resume</a>
 </p>
 
 <!-- My Social Links -->
 <p align="center">
-<a href="mailto:kashyapabhinav777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhinav-kashyap-73559916a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyatodermal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Priya Todermal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/kashyapabhinav777/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.codechef.com/users/koder0078"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://www.instagram.com/k.abhinav0078/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
