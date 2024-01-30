@@ -24,15 +24,15 @@
 <h2>🤝 Connect with me:</h2>
 <p align="center">
 <a href="tel:+91 8839984032" target="_blank">📱 +8839984032</a> | 
-<a href="https://drive.google.com/file/d/1dq1KUzIGwnOPVsR4xy_7uGuNczBavDg0/view?usp=sharing" target="_blank">🧾 My Resume</a>
+<a href="https://drive.google.com/file/d/1u24UbRAioLc76zvLU6AH8Vvn39WLGqSi/view?usp=sharing" target="_blank">🧾 My Resume</a>
 </p>
 
 <!-- My Social Links -->
 <p align="center">
 <a href="mailto:priyatodermal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/priya-todermal-7618901ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/kashyapabhinav777/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-<a href="https://www.codechef.com/users/koder0078"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href=""><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://www.instagram.com/piyuuu____73/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
