@@ -23,7 +23,7 @@
 <!-- My contacts -->
 <h2>🤝 Connect with me:</h2>
 <p align="center">
-<a href="tel:+91 8839984032" target="_blank">📱 +8839984032</a> | 
+<a href="tel:+91 8839984032" target="_blank">📱 +91 8839984032</a> | 
 <a href="https://drive.google.com/file/d/1u24UbRAioLc76zvLU6AH8Vvn39WLGqSi/view?usp=sharing" target="_blank">🧾 My Resume</a>
 </p>
 
