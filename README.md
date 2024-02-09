@@ -15,7 +15,7 @@
 ## 👨‍💻 Know Me:
 
 * 🏫 &nbsp;I'm a B.com CSE'22 student at [Devi Ahilya Vishwavidyalaya, Indore  University](https://www.hnbgu.ac.in/home).
-* 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can...
+* 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can.
 * 👨‍💻 &nbsp;I’m currently learning frontend Development  to become a Frontend  Developer.
 * 🌱 &nbsp;Practicing Data Structures and Algorithm.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
